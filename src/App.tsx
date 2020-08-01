@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import Routes from './routes';
-import GlobalStyle from './globalSytles/globalStyles';
+import GlobalStyle from './styles/globalStyles';
 
 const App: React.FC = () => {
   return (
